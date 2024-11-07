@@ -1,0 +1,18 @@
+{
+  "iris_input": {
+    "raw": {
+      "2024-06-06 15:04:04": {
+        "sepal_length": 5.1,
+        "sepal_width": 3.5,
+        "petal_length": 1.4,
+        "petal_width": 0.2
+      },
+      "2024-06-06 15:05:04": {
+        "sepal_length": 4.9,
+        "sepal_width": 3.0,
+        "petal_length": 1.4,
+        "petal_width": 0.2
+      }
+    }
+  }
+}
